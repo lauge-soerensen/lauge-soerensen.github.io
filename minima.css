@@ -45,9 +45,14 @@ a img {
 line-height: 30px;
 }
 
+li{
+  margin: 10px 0;
+}
+
+
 li.brain {
 	list-style-image: url('brain.png');
-}
+	}
 
 li.lungs {
 list-style-image: url('lungs.png');
