@@ -50,21 +50,21 @@ a img {
 }
 
 li.brain {
-	list-style-image: url('brain.png');
+	list-style-image: url('images/brain.png');
   margin-bottom: 20px;
 }
 
 li.lungs {
-	list-style-image: url('lungs.png');
+	list-style-image: url('images/lungs.png');
   margin-bottom: 20px;
 }
 
 li.microscope {
-	list-style-image: url('microscope.png');
+	list-style-image: url('images/microscope.png');
   margin-bottom: 20px;
 }
 
 li.book {
-	list-style-image: url('book.png');
+	list-style-image: url('images/book.png');
   margin-bottom: 20px;
 }
