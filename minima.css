@@ -68,3 +68,9 @@ li.book {
 	list-style-image: url('images/book.png');
   margin-bottom: 20px;
 }
+
+footer {
+	border-top-width: 2px;
+	border-top-style: solid;
+	border-top-color: #000;
+}
